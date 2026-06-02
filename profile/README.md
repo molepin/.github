@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/5b99667a-59d4-4483-b119-cb40bd4faedb
+https://github.com/user-attachments/assets/2cea50fe-8ace-4fd3-95d5-6fa1d6f16a3d
 
 <div align="center">
 <img src="./assets/base_ci.png" width="180" alt="MOLEPIN" />
