@@ -1,4 +1,4 @@
-[![MOLEPIN](./assets/molepin-mascot.png)] https://github.com/user-attachments/assets/7ccc67f5-58ca-4f8a-bf57-13f7e618d9bf
+https://github.com/user-attachments/assets/7ccc67f5-58ca-4f8a-bf57-13f7e618d9bf
 
 <div align="center">
 
