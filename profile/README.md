@@ -2,7 +2,7 @@ https://github.com/user-attachments/assets/7ccc67f5-58ca-4f8a-bf57-13f7e618d9bf
 
 <div align="center">
 
-<img src="./assets/molepin-mascot.png" width="180" alt="MOLEPIN" />
+<img src="./assets/base_ci.png" width="180" alt="MOLEPIN" />
 
 # MOLEPIN
 
