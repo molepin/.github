@@ -1,7 +1,6 @@
-https://github.com/user-attachments/assets/7ccc67f5-58ca-4f8a-bf57-13f7e618d9bf
+https://github.com/user-attachments/assets/5b99667a-59d4-4483-b119-cb40bd4faedb
 
 <div align="center">
-
 <img src="./assets/base_ci.png" width="180" alt="MOLEPIN" />
 
 # MOLEPIN
